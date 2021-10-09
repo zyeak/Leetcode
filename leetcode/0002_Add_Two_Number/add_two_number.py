@@ -55,3 +55,19 @@ class Solution:
             l2 = l2.next if l2 else None
                 
         return dummy.next
+
+# Solution 3:
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        
+        def toint(node):
+            return node.val + 10 * toint(node.next) if node else 0
+        
+        n = toint(l1) + toint(l2)
+        first= last = ListNode(n % 10)
+        
+        while n>9:
+            n //= 10
+            last.next = last = ListNode(n % 10)
+        
+        return first
