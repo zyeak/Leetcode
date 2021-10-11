@@ -18,6 +18,7 @@ class Solution(object):
             l -= 1
             r += 1
         return s[l+1:r] 
+        
 if __name__ == '__main__':
     # begin
     s = Solution()
