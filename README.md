@@ -13,5 +13,5 @@
 | 0013 | Roman to Integer | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0013_Roman_to_Integer) | Easy |
 | 0026 | Remove Duplicates from Sorted Array | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0026_Remove_Duplicate_from_Sorted_Array) | Easy |
 | 0027 | Remove Element | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0027_Remove_Element) | Easy |
-
 | 0028 | Implement strStr() | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0028_Implement_strStr) | Easy |
+| 0029 | Divide Two Integers | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0029_Divide_Two_Integers) | Medium |
