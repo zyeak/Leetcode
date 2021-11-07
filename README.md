@@ -15,3 +15,4 @@
 | 0027 | Remove Element | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0027_Remove_Element) | Easy |
 | 0028 | Implement strStr() | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0028_Implement_strStr) | Easy |
 | 0029 | Divide Two Integers | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/0029_Divide_Two_Integers) | Medium |
+| 0035 | Search Insert Position | [Python](https://github.com/zyeak/Leetcode/tree/main/leetcode/35_Search_Insert_Position) | Easy |
